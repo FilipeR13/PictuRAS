@@ -126,8 +126,8 @@ Frontend available on port `3000`.
 
 ## 👥 Team
 
-- Diogo Gomes Matos
+- José Filipe Ribeiro Rodrigues
+- [Diogo Gomes Matos](https://github.com/diogogmatos)
 - [Guilherme João Fernandes Barbosa](https://github.com/Kard9876)
-- [José Filipe Ribeiro Rodrigues](https://github.com/FilipeR13)
 - [Juciano Gomes Farias Júnior](https://github.com/Juciano-Farias)
 - [Nuno Ricardo Silva Gomes](https://github.com/nunogomes255)
